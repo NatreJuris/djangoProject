@@ -1,4 +1,6 @@
 # djangoProject
-django_checkbook
-This is a basic checkbook application 
-can add accounts and tranactions then see the balance
+django_checkbook :
+
+This is a basic checkbook application. 
+Add accounts and tranactions.
+Calculate the balance
